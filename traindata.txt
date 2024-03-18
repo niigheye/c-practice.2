@@ -1,0 +1,3 @@
+Kazan Moscow 20 12
+Ufa Samara 15 8
+Saransk Penza 32 4
